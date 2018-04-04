@@ -5,6 +5,10 @@ git config --global user.name "Your_Username" // Set username
 git config --global user.email "Your_email" // Set email
 
 
+.gitignore // Create file[.gitignore] and add files which you do not wants to add to git repo
+
+
+
 git config --list // Shows the git configuration details on your system.
 
 git config user.name // Check username
