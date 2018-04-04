@@ -22,6 +22,8 @@ git status // check status of working tree
 
 git add <file> // Add file to staging area
   
+git add . // To add all files and directories use "." or "-A"
+  
 git commit -m "commmit messsage" // Commit changes
 
 git remote add origin https://github.com/GuruLatukar/So_id.git // Add remote repo
